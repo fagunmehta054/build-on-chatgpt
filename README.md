@@ -1,12 +1,7 @@
 # OpenGpt
 
-English | [简体中文](./README-zh_CN.md)
-
-Website: https://open-gpt.app/
-
 Recently, I have seen many projects based on #OpenAI. Each of us should have the ability to create these projects to solve our own problems.
 I am preparing to create an AI platform that allows all users to use and create #ChatGPT applications. It's open source!
-Progress will be updated in real-time on [Twitter](https://twitter.com/EclipsePrayer). Please like and follow!
 
 [![OpenGpt](./public/screenshot.png)](https://twitter.com/EclipsePrayer)
 
